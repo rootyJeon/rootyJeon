@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @rootyJeon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hello, I'm @rootyJeon from South Korea! 😆
 
-<!---
-rootyJeon/rootyJeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🏫 Sophomore of Korea University, Computer Science & Engineering
 
-:)
+🌱 Junior Developer interested in Deep Learning & Data Science - CV, NLP, Problem Solving ⭐️ Instructor of Korea Computer Science Academy (고려대학교 전산학술부)
+
+🧑🏻‍💻 Intern Developer of M-monstar
+
+❓ Contact me by my e-mail ipcs@korea.ac.kr
