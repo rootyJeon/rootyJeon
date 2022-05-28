@@ -1,7 +1,7 @@
 ### <div align="center">👋 Hello, I'm @rootyJeon from South Korea! 😆 </div>  
   
 
-🏫  of **Korea University, Computer Science & Engineering** 
+🏫 Junior of **Korea University, Computer Science & Engineering** 
 
 🧑🏻‍💻 Intern Developer of **M-monstar**
   
