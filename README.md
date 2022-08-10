@@ -1,11 +1,13 @@
 ### <div align="center">👋 Hello, I'm @rootyJeon from South Korea! 😆 </div>  
   
 
-🏫 Junior of **Korea University, Computer Science & Engineering** 
+🏫 Junior of **Korea University, Computer Science & Engineering** & double majoring in **Statistics**
+
+🌏 Leader of **Google Developer Students Club at Korea University**
+  
+🌱 Junior Developer interested in **Deep Learning & Web Programming - CV** / **Data Science** / **Databases**
 
 🧑🏻‍💻 Intern Developer of **M-monstar**
-  
-🌱 Junior Developer interested in **Deep Learning & Web Programming - CV, NLP** / **Data Science** / **Database** / **Problem Solving**
 
 ⭐️ Instructor of **Korea Computer Science Academy (고려대학교 전산학술부)**   
   
