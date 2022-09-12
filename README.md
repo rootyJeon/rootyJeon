@@ -4,6 +4,8 @@
 🏫 Junior of **Korea University, Computer Science & Engineering** & double majoring in **Statistics**
 
 🌏 Leader of **Google Developer Students Club at Korea University**
+
+📝 Undergraduate Intern in [**MLV Lab, Korea University, Professor Hyunwoo J. Kim**](https://www.hyunwoojkim.com/home)
   
 🌱 Junior Developer interested in **Deep Learning & Web Programming - CV** / **Data Science** / **Databases**
 
