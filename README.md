@@ -1,7 +1,7 @@
 ### <div align="center">👋 Hello, I'm @rootyJeon from South Korea! 😆 </div>  
   
 
-🏫 Junior of **Korea University, Computer Science & Engineering** & double majoring in **Statistics**
+🏫 Senior of **Korea University, Computer Science & Engineering** & double majoring in **Statistics**
 
 🌏 Leader of **Google Developer Students Club at Korea University**
 
