@@ -5,13 +5,13 @@
 
 🌏 Leader of **Google Developer Students Club at Korea University**
 
-📝 Undergraduate Intern in [**MLV Lab, Korea University, Professor Hyunwoo J. Kim**](https://www.hyunwoojkim.com/home)
+📝 Undergraduate Intern in [**ALINLAB, KAIST, Professor Jinwoo Shin**](https://alinlab.kaist.ac.kr/index.html)
   
-🌱 Junior Developer interested in **Deep Learning & Web Programming - CV** / **Data Science** / **Databases**
+🌱 Junior Developer interested in **Machine Learning** / **Deep Learning** / **Data Science**
 
-🧑🏻‍💻 Intern Developer of **M-monstar**
+🧑🏻‍💻 AI Researcher of **ARCREAL**
 
-⭐️ Instructor of **Korea Computer Science Academy (고려대학교 전산학술부)**   
+⭐️ Instructor of **Korea Computer Science Academy (고려대학교 전산학술부)**
   
 ❓ Ask me about anything by my e-mail **ipcs@korea.ac.kr**
 
