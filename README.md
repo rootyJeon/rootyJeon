@@ -15,7 +15,7 @@
   
 ❓ Ask me about anything by my e-mail **ipcs@korea.ac.kr**
 
-📄 You can check my Curriculum Vitae in **rootyJeon/MyCV**.
+📄 You can check my Curriculum Vitae in [**rootyJeon/MyCV**](https://rootyjeon.github.io/assets/CV_ByungwooJeon.pdf).
  
 ## 🧑‍💻 My Skill Set  
 
