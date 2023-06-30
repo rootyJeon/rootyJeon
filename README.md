@@ -2,7 +2,7 @@
   
 ## Education
 - Senior of Korea University, Dept. of Computer Science & Engineering (2020.03. - )
-- Double majoring in Dept. of Statistics
+- Double majoring in Korea University, Dept. of Statistics
 
 ## I'm currently working on...
 - AI Researcher of [ARCREAL Co.](https://arcreal.com/) (2023.01. - )
