@@ -1,17 +1,26 @@
 # 👋 Hello, World! I'm Byungwoo Jeon !
-  
+
+## News
+- Jul. 2023: I ended my Lead career at **[GDSC, Korea University](https://developers.google.com/community/gdsc)**. Thanks to all members for being with me for the past year!
+- Jun. 2023: **One team** of our club, GDSC KU, won **Global Top 10** at **[2023 Google Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge/winners)**! Congrats to all members!
+- Apr. 2023: **Three teams** of our club, GDSC KU, won **Global Top 100** at **[2023 Google Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge/winners)**! Congrats to all members!
+- Mar. 2023: I've joined [**ALINLAB, KAIST AI**](https://alinlab.kaist.ac.kr/index.html) as an Undergraduate Research Intern!
+- Jan. 2023: I've joined [**ARCREAL**](https://twelvelabs.io/) as an AI Research Intern! I'm working on self-supervised learning tasks
+
+
 ## Education
-- Senior of Korea University, Dept. of Computer Science & Engineering (2020.03. - )
+- Senior of Korea University, Dept. of Computer Science & Engineering (2020.03 - )
 - Double majoring in Korea University, Dept. of Statistics
 
 ## I'm currently working on...
-- AI Researcher of [ARCREAL Co.](https://arcreal.com/) (2023.01. - )
-- Undergraduate Intern in [ALINLAB, KAIST AI](https://alinlab.kaist.ac.kr/index.html) under the supervision of [Professor Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html) (2023.03. - )
-- Founder and Lead of [Google Developer Students Club, Korea Univeristy](https://developers.google.com/community/gdsc) (2022.09. - )
+- AI Research Intern of [ARCREAL Co.](https://arcreal.com/) (2023.01. - )
+- Undergraduate Intern in [ALINLAB, KAIST AI](https://alinlab.kaist.ac.kr/index.html) under the supervision of [Professor Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html) (2023.03 - )
+
 
 ## I worked on ...
-- Undergraduate Intern in [MLVLAB, Korea University CSE](https://www.hyunwoojkim.com/) under the supervision of [Professor Hyunwoo J. Kim](https://www.hyunwoojkim.com/people)
-- Intern Developer of [M-Monstar](https://www.mmonstar.co.kr/)
+- Founder and Lead of [Google Developer Student Clubs, Korea Univeristy](https://developers.google.com/community/gdsc) (2022.07 - 2023.07)
+- Undergraduate Intern in [MLVLAB, Korea University CSE](https://www.hyunwoojkim.com/) under the supervision of [Professor Hyunwoo J. Kim](https://www.hyunwoojkim.com/people) (2022.07 - 2022.12)
+- Intern Developer of [M-Monstar](https://www.mmonstar.co.kr/) (2021.07 - 2021.08)
   
 ## I'm interested in ... 
 - **Self-supervised Learning** and **Semi-supervised Learning**
