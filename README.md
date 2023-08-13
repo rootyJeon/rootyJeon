@@ -1,11 +1,12 @@
 # 👋 Hello, World! I'm Byungwoo Jeon !
 
 ## News
-- Jul. 2023: I ended my Lead career at **[GDSC, Korea University](https://developers.google.com/community/gdsc)**. Thanks to all members for being with me for the past year!
-- Jun. 2023: **One team** of our club, GDSC KU, won **Global Top 10** at **[2023 Google Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge/winners)**! Congrats to all members!
-- Apr. 2023: **Three teams** of our club, GDSC KU, won **Global Top 100** at **[2023 Google Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge/winners)**! Congrats to all members!
-- Mar. 2023: I've joined [**ALINLAB, KAIST AI**](https://alinlab.kaist.ac.kr/index.html) as an Undergraduate Research Intern!
-- Jan. 2023: I've joined [**ARCREAL**](https://twelvelabs.io/) as an AI Research Intern! I'm working on self-supervised learning tasks
+- 2023/08: I've joined [**LIMLAB, Korea Univ. STAT**](https://www.sungbin-lim.net/LIM) Research Group. I'm collaborating with [**Genesis Lab**](https://home.genesislab.ai/) for a short-term research project.
+- 2023/07: I ended my Lead career at **[GDSC, Korea University](https://developers.google.com/community/gdsc)**. Thanks to all members for being with me for the past year!
+- 2023/06: **One team** of our club, GDSC KU, won **Global Top 10** at **[2023 Google Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge/winners)**! Congrats to all members!
+- 2023/04: **Three teams** of our club, GDSC KU, won **Global Top 100** at **[2023 Google Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge/winners)**! Congrats to all members!
+- 2023/03: I've joined [**ALINLAB, KAIST AI**](https://alinlab.kaist.ac.kr/index.html) as an Undergraduate Research Intern!
+- 2023/01: I've joined [**ARCREAL**](https://arcreal.com/) as an AI Research Intern! I'm working on self-supervised learning tasks
 
 
 ## Education
@@ -15,6 +16,7 @@
 ## I'm currently working on...
 - AI Research Intern of [ARCREAL Co.](https://arcreal.com/) (2023.01. - )
 - Undergraduate Intern in [ALINLAB, KAIST AI](https://alinlab.kaist.ac.kr/index.html) under the supervision of [Professor Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html) (2023.03 - )
+- Undergraduate Intern in [LIMLAB, Korea Univ. STAT](https://www.sungbin-lim.net/LIM) under the supervision of [Professor Sungbin Lim](https://www.sungbin-lim.net/LIM) (2023.08 - 2023.11)
 
 
 ## I worked on ...
@@ -25,6 +27,9 @@
 ## I'm interested in ... 
 - **Self-supervised Learning** and **Semi-supervised Learning**
 - Neural Radiance Fields
+- Generative Models
+
+But not limited to.
 
 ## If you want more details ... 
 - You can check my curriculum vitae in [rooty2020/CV](https://rootyjeon.github.io/assets/CV_ByungwooJeon.pdf)
