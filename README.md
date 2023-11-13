@@ -1,4 +1,10 @@
 # 👋 Hello, World! I'm Byungwoo Jeon !
+<div align="center">
+<br><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Byungwoo+Jeon;Research+on+Machine+Learning" alt="Typing SVG" /></a>
+<br>
+<div align="left">
+
 
 ## News
 - 2023/08: I've joined [**LIMLAB, Korea Univ. STAT**](https://www.sungbin-lim.net/LIM) Research Group. I'm collaborating with [**Genesis Lab**](https://home.genesislab.ai/) for a short-term research project.
@@ -7,7 +13,6 @@
 - 2023/04: **Three teams** of our club, GDSC KU, won **Global Top 100** at **[2023 Google Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge/winners)**! Congrats to all members!
 - 2023/03: I've joined [**ALINLAB, KAIST AI**](https://alinlab.kaist.ac.kr/index.html) as an Undergraduate Research Intern!
 - 2023/01: I've joined [**ARCREAL**](https://arcreal.com/) as an AI Research Intern! I'm working on self-supervised learning tasks
-
 
 ## Education
 - Senior of Korea University, Dept. of Computer Science & Engineering (2020.03 - )
