@@ -7,12 +7,12 @@
 
 
 ## News
-- 2023/08: I've joined [**LIMLAB, Korea Univ. STAT**](https://www.sungbin-lim.net/LIM) Research Group. I'm collaborating with [**Genesis Lab**](https://home.genesislab.ai/) for a short-term research project.
+- 2023/11: I won **Second-place** (Prize ￦3,000,000) at [**K-Data Science Hackathon**](http://kdatascience.kr/hackathon/competition) with [Sukyung Baek](https://github.com/braveseokyung), Yumin Choi, and Yeongyu Kim!
+- 2023/08: I've joined [**LIMLAB, Korea Univ. STAT**](https://www.sungbin-lim.net/LIM) Research Group. I'm collaborating with [Genesis Lab](https://home.genesislab.ai/) for a short-term research project.
 - 2023/07: I ended my Lead career at **[GDSC, Korea University](https://developers.google.com/community/gdsc)**. Thanks to all members for being with me for the past year!
 - 2023/06: **One team** of our club, GDSC KU, won **Global Top 10** at **[2023 Google Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge/winners)**! Congrats to all members!
 - 2023/04: **Three teams** of our club, GDSC KU, won **Global Top 100** at **[2023 Google Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge/winners)**! Congrats to all members!
 - 2023/03: I've joined [**ALINLAB, KAIST AI**](https://alinlab.kaist.ac.kr/index.html) as an Undergraduate Research Intern!
-- 2023/01: I've joined [**ARCREAL**](https://arcreal.com/) as an AI Research Intern! I'm working on self-supervised learning tasks
 
 ## Education
 - Senior of Korea University, Dept. of Computer Science & Engineering (2020.03 - )
