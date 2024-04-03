@@ -27,8 +27,8 @@
 - Intern Developer of [M-Monstar](https://www.mmonstar.co.kr/) (2021.07 - 2021.08)
   
 ## I'm interested in ... 
-- **Self-Supervised Learning** and **Semi-Supervised Learning**
-- Neural Implicit Fields
+- **Self-Supervised Learning**
+- Multi-modal Representation
 - Generative Models
 
 But not limited to.
