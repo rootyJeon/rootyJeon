@@ -14,14 +14,15 @@
 - 2023/03: I've joined [**ALINLAB, KAIST AI**](https://alinlab.kaist.ac.kr/index.html) as an Undergraduate Research Intern!
 
 ## Education
-- Senior of Korea University, Dept. of Computer Science & Engineering (2020.03 - )
+- Senior of Korea University, Dept. of Computer Science & Engineering (2020.03 - 2024.08)
 - Double majoring in Korea University, Dept. of Statistics
 
 ## I'm currently working on...
-- AI Research Intern of [ARCREAL Co.](https://arcreal.com/) (2023.01. - )
-- Undergraduate Intern of [ALINLAB, KAIST AI](https://alinlab.kaist.ac.kr/index.html) under the supervision of [Professor Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html) (2023.03 - )
+I'm looking for the NEXT step!
 
 ## I worked on ...
+- Undergraduate Intern of [ALINLAB, KAIST AI](https://alinlab.kaist.ac.kr/index.html) under the supervision of [Professor Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html) (2023.03 - 2024.06)
+- AI Research Intern of [ARCREAL Co.](https://arcreal.com/) (2023.01. - 2023.12)
 - Founder and Lead of [Google Developer Student Clubs, Korea Univeristy](https://developers.google.com/community/gdsc) (2022.07 - 2023.07)
 - Undergraduate Intern of [MLVLAB, Korea University CSE](https://www.hyunwoojkim.com/) under the supervision of [Professor Hyunwoo J. Kim](https://www.hyunwoojkim.com/people) (2022.07 - 2022.12)
 - Intern Developer of [M-Monstar](https://www.mmonstar.co.kr/) (2021.07 - 2021.08)
