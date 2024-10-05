@@ -7,15 +7,15 @@
 
 
 ## News
-- 2024/09: One paper that I participated has been accepted at **NeurIPS 2024** as a **spotlight presentation**!
-- 2024/09: I became M.S./Ph.D integrated student of [**ALINLAB, KAIST AI**](https://alinlab.kaist.ac.kr/index.html)!
-- 2024/08: I received my B.S. in CSE and STAT at **Korea University**! Thanks to all of you for being with me for our wonderful journey!
-- 2023/11: I won **Second-place** (Prize $2,000) at [**K-Data Science Hackathon**](http://kdatascience.kr/hackathon/competition) with [Sukyung Baek](https://github.com/braveseokyung), Yumin Choi, and Yeongyu Kim!
-- 2023/07: I ended my Lead career at **[GDSC, Korea University](https://developers.google.com/community/gdsc)**. Thanks to all members for being with me for the past year!
+- Sep. 2024: One paper that I participated has been accepted at **NeurIPS 2024** as a **spotlight presentation**!
+- Sep. 2024: I became M.S./Ph.D integrated student of [**ALINLAB, KAIST AI**](https://alinlab.kaist.ac.kr/index.html)!
+- Aug. 2024: I received my B.S. in CSE and STAT at **Korea University**! Thanks to all of you for being with me for our wonderful journey!
+- Nov. 2023: I won **Second-place** (Prize $2,000) at [**K-Data Science Hackathon**](http://kdatascience.kr/hackathon/competition) with [Sukyung Baek](https://github.com/braveseokyung), Yumin Choi, and Yeongyu Kim!
+- Jul. 2023: I ended my Lead career at **[GDSC, Korea University](https://developers.google.com/community/gdsc)**. Thanks to all members for being with me for the past year!
 
 ## Education
-- Senior of Korea University, Dept. of Computer Science & Engineering (2020.03 - 2024.08)
-- Double majoring in Korea University, Dept. of Statistics
+- M.S./Ph.D student in Artificial Intelligence, KAIST (Sep. 2024 - Current)
+- B.S. in Computer Science & Engineering / Statisticcs, Korea University (Mar. 2020 - Aug. 2024)
 
 ## I'm currently working on...
 I'm looking for the NEXT step!
@@ -28,9 +28,11 @@ I'm looking for the NEXT step!
 - Intern Developer of [M-Monstar](https://www.mmonstar.co.kr/) (2021.07 - 2021.08)
   
 ## I'm interested in ... 
-- **Self-Supervised Learning**
-- Multi-modal Representation
+- **High-dimensional Vision**
+  - Implicit Neural Representations
+  - Gaussian Splatting
 - Generative Models
+- Multi-modal Representations
 
 But not limited to.
 
