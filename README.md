@@ -7,11 +7,11 @@
 
 
 ## News
-- 2024/06: I will join [**ALINLAB, KAIST AI**](https://alinlab.kaist.ac.kr/index.html) as a student of MS/Ph.D integrated course!
-- 2023/11: I won **Second-place** (Prize ￦3M) at [**K-Data Science Hackathon**](http://kdatascience.kr/hackathon/competition) with [Sukyung Baek](https://github.com/braveseokyung), Yumin Choi, and Yeongyu Kim!
+- 2024/09: One paper that I participated has been accepted at **NeurIPS 2024** as a **spotlight presentation**!
+- 2024/09: I became M.S./Ph.D integrated student of [**ALINLAB, KAIST AI**](https://alinlab.kaist.ac.kr/index.html)!
+- 2024/08: I received my B.S. in CSE and STAT at **Korea University**! Thanks to all of you for being with me for our wonderful journey!
+- 2023/11: I won **Second-place** (Prize $2,000) at [**K-Data Science Hackathon**](http://kdatascience.kr/hackathon/competition) with [Sukyung Baek](https://github.com/braveseokyung), Yumin Choi, and Yeongyu Kim!
 - 2023/07: I ended my Lead career at **[GDSC, Korea University](https://developers.google.com/community/gdsc)**. Thanks to all members for being with me for the past year!
-- 2023/06: **One team** of our club, GDSC KU, won **Global Top 10** at **[2023 Google Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge/winners)**! Congrats to all members!
-- 2023/04: **Three teams** of our club, GDSC KU, won **Global Top 100** at **[2023 Google Solution Challenge](https://developers.google.com/community/gdsc-solution-challenge/winners)**! Congrats to all members!
 
 ## Education
 - Senior of Korea University, Dept. of Computer Science & Engineering (2020.03 - 2024.08)
