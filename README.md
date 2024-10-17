@@ -15,16 +15,16 @@
 
 ## Education
 - M.S./Ph.D student in Artificial Intelligence, KAIST (Sep. 2024 - Current)
-- B.S. in Computer Science & Engineering / Statisticcs, Korea University (Mar. 2020 - Aug. 2024)
+- B.S. in Computer Science & Engineering / Statistics, Korea University (Mar. 2020 - Aug. 2024)
 
 ## I'm currently working on...
-I'm looking for the NEXT step!
+I'm looking for a new position! Feel free to contact me 📞
 
 ## I worked on ...
-- Undergraduate Intern of [ALINLAB, KAIST AI](https://alinlab.kaist.ac.kr/index.html) under the supervision of [Professor Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html) (2023.03 - 2024.08)
-- AI Research Intern of [ARCREAL Co.](https://arcreal.com/) (2023.01. - 2023.12)
+- Research Intern of [ALINLAB, KAIST AI](https://alinlab.kaist.ac.kr/index.html) under the supervision of [Professor Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html) (2023.03 - 2024.08)
+- ML engineer of [ARCREAL Co.](https://arcreal.com/) (2023.01. - 2024.01)
 - Founder and Lead of [Google Developer Student Clubs, Korea Univeristy](https://developers.google.com/community/gdsc) (2022.07 - 2023.07)
-- Undergraduate Intern of [MLVLAB, Korea University CSE](https://www.hyunwoojkim.com/) under the supervision of [Professor Hyunwoo J. Kim](https://www.hyunwoojkim.com/people) (2022.07 - 2022.12)
+- Research Intern of [MLVLAB, Korea University CSE](https://www.hyunwoojkim.com/) under the supervision of [Professor Hyunwoo J. Kim](https://www.hyunwoojkim.com/people) (2022.07 - 2022.12)
 - Intern Developer of [M-Monstar](https://www.mmonstar.co.kr/) (2021.07 - 2021.08)
   
 ## I'm interested in ... 
