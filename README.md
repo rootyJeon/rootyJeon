@@ -23,7 +23,7 @@ I'm looking for a new position! Feel free to contact me 📞
 ## I worked on ...
 - Research Intern of [ALINLAB, KAIST AI](https://alinlab.kaist.ac.kr/index.html) under the supervision of [Professor Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html) (2023.03 - 2024.08)
 - ML engineer of [ARCREAL Co.](https://arcreal.com/) (2023.01. - 2024.01)
-- Founder and Lead of [Google Developer Student Clubs, Korea Univeristy](https://developers.google.com/community/gdsc) (2022.07 - 2023.07)
+- Founder and Lead of [Google Developer Student Clubs, Korea Univeristy](https://developers.google.com/community/gdsc) (2022.08 - 2023.07)
 - Research Intern of [MLVLAB, Korea University CSE](https://www.hyunwoojkim.com/) under the supervision of [Professor Hyunwoo J. Kim](https://www.hyunwoojkim.com/people) (2022.07 - 2022.12)
 - Intern Developer of [M-Monstar](https://www.mmonstar.co.kr/) (2021.07 - 2021.08)
   
