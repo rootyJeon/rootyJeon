@@ -8,7 +8,7 @@
 
 ## News
 - Sep. 2024: One paper that I participated has been accepted at **NeurIPS 2024** as a **spotlight presentation**!
-- Sep. 2024: I became M.S. student of [**ALINLAB, KAIST AI**](https://alinlab.kaist.ac.kr/index.html)!
+- Sep. 2024: I became a M.S. student of [**ALINLAB, KAIST AI**](https://alinlab.kaist.ac.kr/index.html)!
 - Aug. 2024: I received my B.S. in CSE and STAT at **Korea University**! Thanks to all of you for being with me for our wonderful journey!
 - Nov. 2023: I won **Second-place** (Prize $2,000) at [**K-Data Science Hackathon**](http://kdatascience.kr/hackathon/competition) with [Sukyung Baek](https://github.com/braveseokyung), Yumin Choi, and Yeongyu Kim!
 - Jul. 2023: I ended my Lead career at **[GDSC, Korea University](https://developers.google.com/community/gdsc)**. Thanks to all members for being with me for the past year!
