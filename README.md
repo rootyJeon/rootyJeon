@@ -9,10 +9,10 @@
 ## News
 - Sep. 2024: One paper that I participated has been accepted at **NeurIPS 2024** as a **spotlight presentation**!
 - Sep. 2024: I became a M.S. student of [**ALINLAB, KAIST AI**](https://alinlab.kaist.ac.kr/index.html)!
-- Aug. 2024: I received my B.S. in CSE and STAT at **Korea University**! Thanks to all of you for being with me for our wonderful journey!
+- Aug. 2024: I received my B.S. in CSE and STAT at **Korea University**! Thanks to all of you for being with me on our wonderful journey!
 
 ## Education
-- M.S. student in Artificial Intelligence, KAIST (Sep. 2024 - Current)
+- M.S./Ph.D student in Artificial Intelligence, KAIST (Sep. 2024 - Current)
 - B.S. in Computer Science & Engineering / Statistics, Korea University (Mar. 2020 - Aug. 2024)
 
 ## I'm currently working on...
@@ -23,7 +23,7 @@ I'm looking for a new position! Feel free to contact me 📞
 - ML engineer of [ARCREAL Co.](https://arcreal.com/) (2023.01. - 2024.01)
 - Founder and Lead of [Google Developer Student Clubs, Korea Univeristy](https://developers.google.com/community/gdsc) (2022.08 - 2023.07)
 - Research Intern of [MLVLAB, Korea University CSE](https://www.hyunwoojkim.com/) under the supervision of [Professor Hyunwoo J. Kim](https://www.hyunwoojkim.com/people) (2022.07 - 2022.12)
-- Intern Developer of [M-Monstar](https://www.mmonstar.co.kr/) (2021.07 - 2021.08)
+- Fullstack Developer of [M-Monstar](https://www.mmonstar.co.kr/) (2021.07 - 2021.08)
   
 ## I'm interested in ... 
 - **Multi-modal Representations**
