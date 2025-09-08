@@ -7,7 +7,8 @@
 
 
 ## News
-- Sep. 2024: One paper that I participated has been accepted at **NeurIPS 2024** as a **spotlight presentation**!
+- Sep. 2025: One paper has been accepted to **CoRL 2025 Workshop**!
+- Sep. 2024: One paper that I participated has been accepted to **NeurIPS 2024** as a **spotlight presentation**!
 - Sep. 2024: I became a M.S. student of [**ALINLAB, KAIST AI**](https://alinlab.kaist.ac.kr/index.html)!
 - Aug. 2024: I received my B.S. in CSE and STAT at **Korea University**! Thanks to all of you for being with me on our wonderful journey!
 
@@ -26,7 +27,7 @@ I'm looking for a new position! Feel free to contact me 📞
 - Fullstack Developer of [M-Monstar](https://www.mmonstar.co.kr/) (2021.07 - 2021.08)
   
 ## I'm interested in ... 
-- **Multi-modal Representations**
+- **Multi-modal Representation**
 - Robot Learning
 - High-dimensional Vision
 
