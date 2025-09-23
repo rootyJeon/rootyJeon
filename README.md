@@ -7,6 +7,7 @@
 
 
 ## News
+- Sep. 2025: One paper has been accepted to **NeurIPS 2025 Workshop**!
 - Sep. 2025: One paper has been accepted to **CoRL 2025 Workshop**!
 - Sep. 2024: One paper that I participated has been accepted to **NeurIPS 2024** as a **spotlight presentation**!
 - Sep. 2024: I became a M.S. student of [**ALINLAB, KAIST AI**](https://alinlab.kaist.ac.kr/index.html)!
