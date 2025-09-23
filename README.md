@@ -9,12 +9,12 @@
 ## News
 - Sep. 2025: One paper has been accepted to **NeurIPS 2025 Workshop**!
 - Sep. 2025: One paper has been accepted to **CoRL 2025 Workshop**!
-- Sep. 2024: One paper that I participated has been accepted to **NeurIPS 2024** as a **spotlight presentation**!
-- Sep. 2024: I became a M.S. student of [**ALINLAB, KAIST AI**](https://alinlab.kaist.ac.kr/index.html)!
+- Sep. 2024: One paper has been accepted to **NeurIPS 2024** as a **spotlight presentation**!
+- Sep. 2024: I became a Ph.D student of [**ALINLAB, KAIST AI**](https://alinlab.kaist.ac.kr/index.html)!
 - Aug. 2024: I received my B.S. in CSE and STAT at **Korea University**! Thanks to all of you for being with me on our wonderful journey!
 
 ## Education
-- M.S./Ph.D student in Artificial Intelligence, KAIST (Sep. 2024 - Current)
+- Ph.D student in Artificial Intelligence, KAIST (Sep. 2024 - Current)
 - B.S. in Computer Science & Engineering / Statistics, Korea University (Mar. 2020 - Aug. 2024)
 
 ## I'm currently working on...
@@ -28,8 +28,8 @@ I'm looking for a new position! Feel free to contact me 📞
 - Fullstack Developer of [M-Monstar](https://www.mmonstar.co.kr/) (2021.07 - 2021.08)
   
 ## I'm interested in ... 
-- **Multi-modal Representation**
-- Robot Learning
+- **Multi-modal Representation** (<em>e.g.</em>, VLM)
+- Robot Learning (<em>e.g.</em>, VLA)
 - High-dimensional Vision
 
 But not limited to.
