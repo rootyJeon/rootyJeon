@@ -7,6 +7,7 @@
 
 
 ## News
+- Feb. 2026: VaLR is posted on arXiv! See more details in [**here**](https://arxiv.org/abs/2602.04476)!
 - Sep. 2025: One paper has been accepted to **NeurIPS 2025 Workshop**!
 - Sep. 2025: One paper has been accepted to **CoRL 2025 Workshop**!
 - Sep. 2024: One paper has been accepted to **NeurIPS 2024** as a **spotlight presentation**!
