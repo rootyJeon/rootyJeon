@@ -7,15 +7,17 @@
 
 
 ## News
-- Feb. 2026: VaLR is posted on arXiv! See more details in [**here**](https://arxiv.org/abs/2602.04476)!
+- Mar. 2026: Happy to lead the project "Latent World Models" with NVIDIA!
+- Mar. 2026: SpatialBoost is posted on arXiv! See more details in [**here**](https://arxiv.org/abs/2603.22057).
+- Feb. 2026: VaLR is posted on arXiv! See more details in [**here**](https://arxiv.org/abs/2602.04476).
 - Sep. 2025: One paper has been accepted to **NeurIPS 2025 Workshop**!
 - Sep. 2025: One paper has been accepted to **CoRL 2025 Workshop**!
 - Sep. 2024: One paper has been accepted to **NeurIPS 2024** as a **spotlight presentation**!
-- Sep. 2024: I became a Ph.D student of [**ALINLAB, KAIST AI**](https://alinlab.kaist.ac.kr/index.html)!
+- Sep. 2024: I became a Ph.D. student of [**ALINLAB, KAIST AI**](https://alinlab.kaist.ac.kr/index.html)!
 - Aug. 2024: I received my B.S. in CSE and STAT at **Korea University**! Thanks to all of you for being with me on our wonderful journey!
 
 ## Education
-- Ph.D student in Artificial Intelligence, KAIST (Sep. 2024 - Current)
+- Ph.D. student in Artificial Intelligence, KAIST (Sep. 2024 - Current)
 - B.S. in Computer Science & Engineering / Statistics, Korea University (Mar. 2020 - Aug. 2024)
 
 ## I'm currently working on...
