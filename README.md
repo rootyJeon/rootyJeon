@@ -7,7 +7,7 @@
 
 
 ## News
-- Mar. 2026: Happy to lead the project "Latent World Models" with NVIDIA!
+- Mar. 2026: Excited to lead the project "Latent World Models" with NVIDIA!
 - Mar. 2026: SpatialBoost is posted on arXiv! See more details in [**here**](https://arxiv.org/abs/2603.22057).
 - Feb. 2026: VaLR is posted on arXiv! See more details in [**here**](https://arxiv.org/abs/2602.04476).
 - Sep. 2025: One paper has been accepted to **NeurIPS 2025 Workshop**!
