@@ -7,6 +7,7 @@
 
 
 ## News
+- May 2026: VaLR has been accepted to **ICML 2026**! See you all in Seoul 🇰🇷
 - Mar. 2026: Excited to lead the project "Latent World Models" with NVIDIA!
 - Mar. 2026: SpatialBoost is posted on arXiv! See more details in [**here**](https://arxiv.org/abs/2603.22057).
 - Feb. 2026: VaLR is posted on arXiv! See more details in [**here**](https://arxiv.org/abs/2602.04476).
